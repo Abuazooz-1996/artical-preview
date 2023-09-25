@@ -120,10 +120,12 @@ body{
 .links i{
     padding: 0 15px 0 0;
     margin-top: 5px;
+    cursor: pointer;
 }
 .links {
     margin-right: 10px;
 }
+
 .links .share-1{
     display: none;
     background: hsl(265.26deg 13.48% 72.35%);
